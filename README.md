@@ -25,5 +25,7 @@
 ![Java](https://camo.githubusercontent.com/924446ea65193e79f9c710d414c2bdeaeb5f7a41714b1d4c3e1b83fc6db4907d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)
 
 ## Status
-[![Status de Welton Almeida](https://github-readme-stats.vercel.app/api?username=weltonam&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weltonam&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weltonam&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weltonam&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weltonam&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=weltonam&theme=darcula)
