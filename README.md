@@ -1,7 +1,7 @@
 ## Hi there, I'm Welton! 👋
 
 ### 🤔 Who am I?
-- Junior Developer. 
+- Software engineer. 
 - Work at [BrasilSoftware](https://brasilsoftware.com/site/). 
 - Love to code any kind of application.
 - Tireless life student.
