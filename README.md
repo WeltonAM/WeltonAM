@@ -3,7 +3,7 @@
 ### 🤔 Who am I?
 - Software engineer. 
 - Work at [BrasilSoftware](https://brasilsoftware.com/site/). 
-- Love to code any.
+- Love to code.
 - Tireless life student.
 
 ## 🌟 Technologies:
