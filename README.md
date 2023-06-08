@@ -5,6 +5,9 @@
 - Work at [BrasilSoftware](https://brasilsoftware.com/site/). 
 - Love to code.
 - Tireless life student.
+- A stakeholder fighting for the software architecture and design.
+
+>Software architects are, by virtue of their job description, more focused on the structure of the system than on its features and functions. Architects create an architecture that allows those features and functions to be easily developed, easily modified, and easily extended. **MARTIN C., Robert. Clean Architecture.**
 
 ## 🌟 Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
