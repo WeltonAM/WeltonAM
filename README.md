@@ -1,4 +1,4 @@
-## Hi there, I'm Welton! 👋
+## Hi there, my name is Welton! 👋
 
 ### 🤔 Who am I?
 - Software engineer. 
